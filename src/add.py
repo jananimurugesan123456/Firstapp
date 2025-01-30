@@ -2,6 +2,6 @@ a = 22
 b = 2
 c=3
 d=4
-print(a*b*c)
+print(a*b*c*d)
 
 
